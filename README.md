@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="https://dev.to/take-tech1001"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />       </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/take-tech1001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/take-tech1001/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:take-tech1001?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<p>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=take-tech1001&layout=compact&show_icons=true&theme=dark&title_color=0f83fd" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=take-tech1001&theme=dark&show_icons=ture&title_color=0f83fd&icon_color=0f83fd" />
+</p>
 
 <!--
 **take-tech1001/take-tech1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
